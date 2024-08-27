@@ -1,4 +1,4 @@
-<h1 align="center">Cloning the Netflix interface</h1>
+<h1 align="center">Clonagem da interface do Netflix</h1>
 
 <h1 align="center">
     <img alt="React logo" width="50px" height="40px" src="https://github.com/luizpaulogroup/html-netflix/blob/master/assets/netflix.png" />
@@ -7,24 +7,24 @@
 </h1>
 
 <p align="center">
-  <a href="#pencil-What-was-passed-on">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>
+  <a href="#pencil-What-was-passed-on">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Tecnologias</a>
 </p>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed with the technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## :pencil: What was passed on
+## :pencil: O que foi desenvolvido
 
-- Developed throughout the course, login page, access to accounts and home with series listing.
-- Performing authentication by saving data in localStorage with JavaScript.
-- Website styling with CSS
-- CSS effects, (such as: hover, -webkit-transform)
-- Structuring site based on Netflix
+- Desenvolvido ao longo do curso, inclui a página de login, acesso às contas e a página inicial com listagem de séries.
+- Autenticação realizada salvando dados no localStorage com JavaScript.
+- Estilização do site com CSS
+- Efeitos CSS, (como: hover, -webkit-transform)
+- Estruturação do site com base no Netflix 
 
 ---
 
-Made with ♥ by Paola Mayuri :wave: 
+Feito com ♥ por Paola Mayuri 👋 :wave: 
